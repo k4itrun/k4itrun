@@ -1,16 +1,33 @@
-### Hi there 👋
+<body style="background: #ffff12">
 
-<!--
-**k4itrun/k4itrun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+	<b>Hola...👋, soy Truchorko_</b><br>
+	<a href="https://team.arcades.ga/discord">Discord</a> |
+	<a href="https://www.youtube.com/channel/UCgGCfLSWYbobojj58MQ0FWA">YouTube</a> |
+	<a href="https://team.arcades.ga/">Team Arcades</a> |
+	<a href="https://t5566.teamarcades.xyz/">Truchorko5566</a> |
+	<a href="https://team.arcades.ga/rocket">My Bot</a>
+</p>
+	
+<br/>
+<br/>
+<br/>
+	
+	
+<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-5851DB?style=flat-square&labelColor=5851DB&logo=instagram&logoColor=white&link=https://instagram.com/discord)](https://instagram.com/discord) -->
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/truchorko_)](https://twitter.com/truchorko_)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@truchorko.ga)](mailto:me@truchorko.ga)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=truchorko5566)
 
-Here are some ideas to get you started:
+	
+<img width="45%" align="right" src="https://lanyard.cnrad.dev/api/313247783748501505?theme=light&bg=B2FF00&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=🅿🅾🆁%20🅰%20🅷🅾🆁🅰%20🅽🅾%20🅰🆈%20🅽🅰🅳🅰...">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left" width="100%">
+	
+## 😁 About
+
+- Hola, soy **Truchorko.** Una persona normal que sabe programar en el campo eso es todo y ya no se mas nada de mi.
+- 👨‍💻 Website: [https://truchorko5566.xyz](https://t5566.teamarcades.xyz/)
+  
+<br />
+<br />
