@@ -26,8 +26,7 @@
 	
 ## 😁 About
 
-- Hola, soy **Truchorko.** Una persona normal que sabe programar en el campo eso es todo y ya no se mas nada de mi.
-- 👨‍💻 Website: [https://truchorko5566.xyz](https://t5566.teamarcades.xyz/)
+- Hola, aca que puedo poner?
   
 <br />
 <br />
