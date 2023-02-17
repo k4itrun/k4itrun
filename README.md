@@ -16,7 +16,7 @@
 	
 <!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-5851DB?style=flat-square&labelColor=5851DB&logo=instagram&logoColor=white&link=https://instagram.com/discord)](https://instagram.com/discord) -->
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/truchorko_)](https://twitter.com/truchorko_)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@truchorko.ga)](mailto:me@truchorko.ga)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@truchorko.xyz)](mailto:me@truchorko.xyz)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=truchorko5566)
 
 	
