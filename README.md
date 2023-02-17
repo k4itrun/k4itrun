@@ -1,7 +1,7 @@
 <body style="background: #ffff12">
 
 <p align='center'>
-	<b>Hola...👋, soy Truchorko_</b><br>
+	<b>Welcome..., Soon...</b><br>
 	<a href="https://team.arcades.ga/discord">Discord</a> |
 	<a href="https://www.youtube.com/channel/UCgGCfLSWYbobojj58MQ0FWA">YouTube</a> |
 	<a href="https://team.arcades.ga/">Team Arcades</a> |
