@@ -26,7 +26,7 @@
 	
 ## 😁 About
 
-- Hola, aca que puedo poner?
+- Hola, que puedo poner aqui?
   
 <br />
 <br />
