@@ -4,7 +4,7 @@
 	<b>Welcome..., Soon...</b><br>
 	<a href="https://team.arcades.ga/discord">Discord</a> |
 	<a href="https://www.youtube.com/channel/UCgGCfLSWYbobojj58MQ0FWA">YouTube</a> |
-	<a href="https://team.arcades.ga/">Team Arcades</a> |
+	<a href="https://team.arcades.ga/">T\x65am \x41r\x63a\x64\x65s</a> |
 	<a href="https://t5566.teamarcades.xyz/">Truchorko5566</a> |
 	<a href="https://team.arcades.ga/rocket">My Bot</a>
 </p>
