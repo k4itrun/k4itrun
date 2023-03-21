@@ -15,6 +15,7 @@
                 - 𝐓𝐫𝐮𝐞 𝐨𝐫 𝐟𝐚𝐥𝐬𝐞.
             </h3>
         </div>
+<img src='https://profile-counter.glitch.me/return/count.svg' align="center" weight="150">
         <br><br><br>
         <h1 align="center"> - 𝐌𝐞𝐝𝐢𝐚 - </h1>
         <div align="center">
