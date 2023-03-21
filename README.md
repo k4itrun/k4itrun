@@ -11,9 +11,8 @@
                 <br><br>
                 - Coding Services. <br>
                 - Slow Developer. <br>
-                - Bobby: Create random pages && <br> 
-                         Code leaker && <br>
-                         and anything that is code. <br>
+                - Bobby: Create random pages. <br>
+                - True or false.
             </h3>
         </div>
         <br><br><br>
