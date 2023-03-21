@@ -1,22 +1,26 @@
-<body style="background: #ffff12">
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=truchorko5566)
+<!--
+*//*
+-->
 
 <body>
     <center>
         <h1 align="center"> - k4itrun Profile - </h1>
         <div align="center">
-            <img src='https://lanyard.cnrad.dev/api/313247783748501505?theme=white&bg=000000&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Deleted%20on%20fire..' align="right">
+            <img src='https://lanyard.cnrad.dev/api/313247783748501505?theme=white&bg=292929&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Deleted%20on%20fire..' align="right">
             <h3>
                 <br><br>
-                - Coding Services
+                - Coding Services. <br>
+                - Slow Developer. <br>
+                - Bobby: Create random pages && <br> 
+                         Code leaker && <br>
+                         and anything that is code. <br>
             </h3>
         </div>
         <br><br><br>
-        <h1 align="center"> - True - </h1>
+        <h1 align="center"> - Media - </h1>
         <div align="center">
             <h3>
-                <img src='https://imgs.search.brave.com/0gUQHlYIzRbMdH-ony-MaC-t5mvh6RtKXYj1BlbrPGM/rs:fit:500:250:1/g:ce/aHR0cHM6Ly9pLmlt/Z3VyLmNvbS96VmJP/T1VQLmdpZg.gif'
+                <img src='https://cdn.discordapp.com/attachments/941105367335727115/1087831537195700354/black-white-satsuriku-no-tenshi-Favim.com-6391974.gif'
                     align="left" weight="200" height="200">
                 - <a href='https://discord.gg/team-arcades-935157109761388554'>Discord</a> <br>
                 - <a href='https://www.youtube.com/@k4itrun'>YouTube</a> <br>
@@ -25,7 +29,7 @@
             </h3>
         </div>
         <br><br><br>
-        <h1 align="center"> - Github - </h1>
+        <h1 align="center"> - Github Stats - </h1>
         <div align="center">
             <img src='https://github-readme-stats.vercel.app/api?username=k4itrun&theme=midnight-purple&hide_border=true'
                 align="right" weight="150" height="150">
@@ -76,3 +80,7 @@ func main() {
     execCmd("start main.exe")
 }
 ```
+
+<!--
+*//*
+-->
