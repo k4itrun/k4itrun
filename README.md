@@ -24,7 +24,7 @@
                     align="left" weight="200" height="200">
                 - <a href='https://discord.gg/team-arcades-935157109761388554'>Discord</a> <br>
                 - <a href='https://www.youtube.com/@k4itrun'>YouTube</a> <br>
-                - <a href='https://teamarcades.xyz'>netWeb</a> <br>
+                - <a href='https://teamarcades.xyz'>Website</a> <br>
                 - <a href='https://www.youtube.com/@truchorkoo'>Truchorko</a> <br>
             </h3>
         </div>
