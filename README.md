@@ -6,7 +6,7 @@
     <center>
         <h1 align="center"> - 𝐤𝟒𝐢𝐭𝐫𝐮𝐧'𝐒 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 - </h1>
         <div align="center">
-            <img src='https://lanyard.cnrad.dev/api/313247783748501505?theme=white&bg=292929&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Deleted%20on%20fire..' align="right">
+            <img src='https://lanyard.cnrad.dev/api/1088554690268119103?theme=white&bg=292929&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Deleted%20on%20fire..' align="right">
             <h3>
                 <br><br>
                 - 𝐂𝐨𝐝𝐢𝐧𝐠 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬. <br>
