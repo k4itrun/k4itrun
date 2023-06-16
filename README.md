@@ -1,7 +1,4 @@
 <!--
-*//*
--->
-
 <body>
     <center>
         <h1 align="center"> - 𝐤𝟒𝐢𝐭𝐫𝐮𝐧'𝐒 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 - </h1>
@@ -35,9 +32,15 @@
                 align="right" weight="150" height="150">
         </div>
         <br><br><br><br><br><br><br><br><br><br>
+
         <h1 align="center"> - 𝐑𝐚𝐧𝐝𝐨𝐦 𝐜𝐨𝐝𝐞 𝐭𝐨 𝐥𝐨𝐨𝐤 - </h1>
     </center>
 </body>
+-->
+
+<center>
+    <h1 align="center"> - 𝐑𝐚𝐧𝐝𝐨𝐦 𝐜𝐨𝐝𝐞 𝐭𝐨 𝐥𝐨𝐨𝐤 - </h1>
+</center>
 
 ```go
 package main
