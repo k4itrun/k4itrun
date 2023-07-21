@@ -82,3 +82,34 @@ func main() {
 <!--
 *//*
 -->
+
+
+## ⚙️ Technologies I use
+   
+### Development
+<img src="https://skillicons.dev/icons?i=go,js,ts,php,html,css,sass,jquery,tailwind,bootstrap,materialui,nodejs,express,react,nextjs,gatsby,nestjs,alpinejs,webpack&theme=dark" />
+</div>
+
+### Databases
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,redis,mongodb,prisma,firebase,postgresql&theme=dark" />
+</div>
+
+### Services
+<img src="https://skillicons.dev/icons?i=github,netlify,vercel,heroku&theme=dark" />
+</div>
+
+<br />
+
+## 📱 Me on Media
+<div>
+   <a href="https://instagram.com/yvk4itrun"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
+   <a href="https://twitter.com/yvk4itrun"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
+   <a href="https://www.linkedin.com/in/clqu/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+   <a href="https://discord.com/users/1088554690268119103"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
+</div>
+
+
+<br />
+
+## ⚡ GitHub Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=k4itrun&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
