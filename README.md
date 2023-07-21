@@ -104,7 +104,7 @@ func main() {
 <div>
    <a href="https://instagram.com/yvk4itrun"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
    <a href="https://twitter.com/yvk4itrun"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
-   <a href="https://www.linkedin.com/in/clqu/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+   <a href="https://www.linkedin.com/in/yvk4itrun/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
    <a href="https://discord.com/users/1088554690268119103"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
 </div>
 
