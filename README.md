@@ -87,7 +87,7 @@ func main() {
 ## ⚙️ Technologies I use
    
 ### Development
-<img src="https://skillicons.dev/icons?i=go,js,ts,php,c,html,css,sass,kotlin,jquery,tailwind,bootstrap,materialui,nodejs,express,nextjs,gatsby,nestjs,alpinejs,webpack&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,go,kotlin,c,html,css,sass,jquery,tailwind,bootstrap,materialui,nodejs,express,nextjs,gatsby,alpinejs,webpack&theme=dark" />
 </div>
 
 ### Databases
