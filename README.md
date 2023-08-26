@@ -84,32 +84,41 @@ func main() {
 -->
 
 
-## ⚙️ Technologies I use
-   
-### Development
-<img src="https://skillicons.dev/icons?i=js,ts,go,kotlin,c,html,css,sass,jquery,tailwind,bootstrap,materialui,nodejs,express,nextjs,gatsby,alpinejs,webpack&theme=dark" />
-</div>
+# **v2**
 
-### Databases
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,redis,mongodb,prisma,firebase,postgresql&theme=dark" />
-</div>
+>  **Hi, I'm yvk / k4itrun.**
 
-### Services
-<img src="https://skillicons.dev/icons?i=github,netlify,vercel,heroku&theme=dark" />
-</div>
+> **my best open source project so far called [wick qr](https://github.com/k4itrun/WickQrTokenGrabber)**
+
+<br/>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,ts,go,kotlin,c,html,sass,jquery,tailwind,bootstrap,materialui,express,nextjs,alpinejs,webpack&theme=dark" /><br />
+        <img src="https://skillicons.dev/icons?i=sqlite,mysql,redis,mongodb,prisma,firebase,postgresql&theme=dark" /><br />
+        <img src="https://skillicons.dev/icons?i=github,netlify,vercel,heroku&theme=dark" /><br />
+    </a>
+</p>
+<br/>
+
+---
+
+<p align="center"> 
+    <img src="https://visitcount.itsvg.in/api?id=k4itrun&icon=0&color=8">
+
+    "If sleeping were an Olympic sport, I'd definitely take home the gold in snoring! 😴🏅"
+</p>
+
+<p align="center"> 
+    <div align="center">
+       <a href="https://instagram.com/yvk4itrun"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
+       <a href="https://twitter.com/yvk4itrun"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
+       <a href="https://www.linkedin.com/in/yvk4itrun/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+       <a href="https://discord.com/users/1088554690268119103"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
+    </div>
+</p>
 
 <br />
 
-## 📱 Me on Media
-<div>
-   <a href="https://instagram.com/yvk4itrun"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
-   <a href="https://twitter.com/yvk4itrun"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
-   <a href="https://www.linkedin.com/in/yvk4itrun/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
-   <a href="https://discord.com/users/1088554690268119103"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
-</div>
-
-
-<br />
-
-## ⚡ GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=k4itrun&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
+<p align="center"> 
+    <img src="https://github-profile-trophy.vercel.app/?username=k4itrun&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
+</p>
