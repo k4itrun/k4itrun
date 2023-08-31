@@ -88,7 +88,7 @@ func main() {
 
 >  **Hi, I'm yvk / k4itrun.**
 
-> **my best open source project so far called [wick qr](https://github.com/k4itrun/WickQrTokenGrabber)**
+> **my best open source project so far called [Wick Qr](https://github.com/k4itrun/WickQrTokenGrabber)**
 
 <br/>
 <p align="center">
