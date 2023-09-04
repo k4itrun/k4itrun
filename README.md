@@ -93,7 +93,7 @@ func main() {
 <br/>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,ts,go,kotlin,c,html,sass,jquery,tailwind,bootstrap,materialui,express,nextjs,alpinejs,webpack&theme=dark" /><br />
+        <img src="https://skillicons.dev/icons?i=nodejs,ts,go,kotlin,c,sass,jquery,tailwind,bootstrap,materialui,express,nextjs,alpinejs,webpack&theme=dark" /><br />
         <img src="https://skillicons.dev/icons?i=sqlite,mysql,redis,mongodb,prisma,firebase,postgresql&theme=dark" /><br />
         <img src="https://skillicons.dev/icons?i=github,netlify,vercel,heroku&theme=dark" /><br />
     </a>
