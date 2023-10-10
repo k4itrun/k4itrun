@@ -80,14 +80,31 @@ func main() {
 ```
 
 <!--
-*//*
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 -->
 
 
-# **6889**
+<h1 align="center">Hi visitor, I'm 6889!</h1>
+<p align="center">
+    <a href="https://6889.fun/" target="_blank">
+       <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
+    </a>
+<br/>
+</p>
 
-**Hi, I'm yvk / k4itrun.** <br/>
-> **My best open source project so far called [Wick Qr](https://github.com/k4itrun/WickQrTokenGrabber)**
+<h3 align="center">Formerly a student but passionate in programming</h3>
+<h2 align="center"><u>Personal Details</u></h2>
 
 <br/>
 <p align="center">
