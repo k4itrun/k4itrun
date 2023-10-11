@@ -95,16 +95,16 @@ func main() {
 -->
 
 
-<h1 align="center">Hi visitor, I'm 6889!</h1>
+<h1 align="center">Hi, I'm 6889!</h1>
 <p align="center">
     <a href="https://6889.fun/" target="_blank">
-       <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
+       <img src="https://img.shields.io/badge/-k4itrun%20Review-white?logo=discord&style=for-the-badge">
     </a>
 <br/>
 </p>
 
-<h3 align="center">Formerly a student but passionate in programming</h3>
-<h2 align="center"><u>Personal Details</u></h2>
+<h3 align="center">Former student but passionate about programming and dedicated to the console every moment.</h3>
+<h2 align="center"><u>Personal Info</u></h2>
 
 <br/>
 <p align="center">
