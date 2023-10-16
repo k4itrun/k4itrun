@@ -41,6 +41,7 @@
 | Name                  | Description                                            |
 | ----------------------|------------------------------------------------------- |
 | _[Wick QR](https://github.com/k4itrun/wick-token-grabber)_            | the best grabber for discord channel verification, uses a qr code to scan. |
+| _[ErisPhisher](https://github.com/k4itrun/ErisPhisher#installation)_            | The best way to do phishing easily and simply with more than 60 websites. |
     
 <br/>
 <p align="center"> 
