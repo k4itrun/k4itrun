@@ -42,6 +42,7 @@
 | ----------------------|------------------------------------------------------- |
 | _[Wick QR](https://github.com/k4itrun/wick-token-grabber)_            | the best grabber for discord channel verification, uses a qr code to scan. |
 | _[ErisPhisher](https://github.com/k4itrun/ErisPhisher#installation)_            | The best way to do phishing easily and simply with more than 60 websites. |
+| _[HackerCamera](https://github.com/k4itrun/HackerCam)_            | The best phishing tool to hack your victim's camera using a link (you can see the doc) |
     
 <br/>
 <p align="center"> 
