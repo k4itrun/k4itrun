@@ -4,7 +4,7 @@
 
 ## <img alt="Waving hand" width="26" height="26" src=".public/images/1088554690268119103.png" width="27px"> Hi! I'm 6889
 
-> NO...........................<br>
+> I should put some things here but I don't know.<br>
 
 ## [![Discord](https://img.shields.io/discord/1089173518639431690?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://google.com) [![GitHub followers](https://img.shields.io/github/followers/k4itrun?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/k4itrun?tab=followers) [![Twitter Follow](https://img.shields.io/static/v1?message=Twitter&color=333&label=@k4itrun&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/k4itrun) [![Views](https://github-views.deno.dev/api/badge/k4itrun?style=flat&color=333&cache=none)](https://google.com) [![Wakatime Hours](https://wakatime-hours.deno.dev/api/badge?style=flat-square&color=333)](https://google.com)<br><br><br>
 
