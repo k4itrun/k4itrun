@@ -18,27 +18,10 @@
  <code><img src="https://skillicons.dev/icons?i=python&theme=dark" height="30" width="30" alt="python logo"/></code>
  <code><img src="https://skillicons.dev/icons?i=bash&theme=dark" height="30" width="30" alt="bash logo"/></code>
  <code><img src="https://skillicons.dev/icons?i=php&theme=dark" height="30" width="30" alt="php logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=jquery&theme=dark" height="30" width="30" alt="jquery logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="30" width="30" alt="tailwind logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=materialui&theme=dark" height="30" width="30" alt="materialui logo"/></code>
  <code><img src="https://skillicons.dev/icons?i=express&theme=dark" height="30" width="30" alt="express logo"/></code>
  <code><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="30" width="30" alt="nextjs logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=webpack&theme=dark" height="30" width="30" alt="Webpack logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=alpinejs&theme=dark" height="30" width="30" alt="alpinejs logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=webpack&theme=dark" height="30" width="30" alt="webpack logo"/></code>
- 
- <code><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="30" width="30" alt="webpack logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="30" width="30" alt="webpack logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=redis&theme=dark" height="30" width="30" alt="webpack logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="30" width="30" alt="webpack logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=prisma&theme=dark" height="30" width="30" alt="webpack logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="30" width="30" alt="webpack logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=postgresql&theme=dark" height="30" width="30" alt="webpack logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=github&theme=dark" height="30" width="30" alt="webpack logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=netlify&theme=dark" height="30" width="30" alt="webpack logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="30" width="30" alt="webpack logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=heroku&theme=dark" height="30" width="30" alt="webpack logo"/></code>
- 
+ <code><img src="https://skillicons.dev/icons?i=webpack&theme=dark" height="30" width="30" alt="webpack logo"/></code> 
+ <code><img src="https://skillicons.dev/icons?i=elixir&theme=dark" height="30" width="30" alt="elixir logo"/></code> 
  ### Good site
  
  [Get in now](https://raw.6889.fun) `[Designs are still being made]`
