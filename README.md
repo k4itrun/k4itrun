@@ -13,7 +13,7 @@ I develop whatever, I like console/terminal/shell etc, and backend development c
  
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=k4itrun&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_title=false&hide_rank=false&hide_border=true&order=1" height="150" alt="stats graph"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k4itrun&locale=en&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_title=false&hide_border=true&order=2" height="150" alt="languages graph"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k4itrun&locale=en&layout=compact&card_width=420&langs_count=6&theme=midnight-purple&hide_title=false&hide_border=true&order=2" height="150" alt="languages graph"/>
  <img src="https://streak-stats.demolab.com?user=k4itrun&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"/>
 </div>
 
