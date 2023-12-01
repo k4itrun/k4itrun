@@ -2,7 +2,7 @@
 
 <div align="center">
  <a href="https://discord.com/users/1088554690268119103">
-  <img alt="k4itrun" src="https://card.6889.fun/api/1088554690268119103?idleMessage=sex&cache=none"/>
+  <img alt="k4itrun" src="https://card.6889.fun/api/1088554690268119103?borderRadius=22&bgColor=210029&hideStatus=false&idleMessage=sex"/>
  </a>
  
  ### Short description
@@ -11,17 +11,12 @@
  
  ### What I know and can handle
  
- <code><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="30" width="30" alt="nodejs logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="30" width="30" alt="ts logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=go&theme=dark" height="30" width="30" alt="go logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="30" width="30" alt="kotlin logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=python&theme=dark" height="30" width="30" alt="python logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=bash&theme=dark" height="30" width="30" alt="bash logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=php&theme=dark" height="30" width="30" alt="php logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=express&theme=dark" height="30" width="30" alt="express logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="30" width="30" alt="nextjs logo"/></code>
- <code><img src="https://skillicons.dev/icons?i=webpack&theme=dark" height="30" width="30" alt="webpack logo"/></code> 
- <code><img src="https://skillicons.dev/icons?i=elixir&theme=dark" height="30" width="30" alt="elixir logo"/></code> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=k4itrun&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_title=false&hide_rank=false&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k4itrun&locale=en&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_title=false&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=k4itrun&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
  ### Good site
  
  [Get in now](https://raw.6889.fun) `[Designs are still being made]`
