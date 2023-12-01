@@ -7,14 +7,14 @@
  
  ### Short description
  
- Former student but passionate about programming and dedicated to the console every moment.
+ I develop whatever, I like console/terminal/shell etc, and backend development comes first.
  
  ### What I know and can handle
  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k4itrun&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_title=false&hide_rank=false&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k4itrun&locale=en&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_title=false&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=k4itrun&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+ <img src="https://github-readme-stats.vercel.app/api?username=k4itrun&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_title=false&hide_rank=false&hide_border=true&order=1" height="150" alt="stats graph"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k4itrun&locale=en&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_title=false&hide_border=true&order=2" height="150" alt="languages graph"/>
+ <img src="https://streak-stats.demolab.com?user=k4itrun&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"/>
 </div>
 
  ### Good site
@@ -34,4 +34,4 @@
 
 ---
 
-<p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"> <a href="https://keybase.io/yvk">Keybase: @yvk4itrun</a></p>
+<p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"> <a href="https://keybase.io/yvk">Keybase: @k4itrun</a></p>
