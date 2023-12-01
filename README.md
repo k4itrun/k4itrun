@@ -2,14 +2,14 @@
 
 <div align="center">
  <a href="https://discord.com/users/1088554690268119103">
-  <img alt="k4itrun" src="https://card.6889.fun/api/1088554690268119103?borderRadius=22&bgColor=210029&hideStatus=false&idleMessage=sex"/>
+  <img alt="k4itrun" src="https://card.6889.fun/api/1088554690268119103?borderRadius=22&bgColor=3A006A&hideStatus=false&idleMessage=sex"/>
  </a>
  
  ### Short description
  
- I develop whatever, I like console/terminal/shell etc, and backend development comes first.
+I develop whatever, I like console/terminal/shell etc, and backend development comes first.
  
- ### What I know and can handle
+ ### Github randoms statistics
  
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=k4itrun&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_title=false&hide_rank=false&hide_border=true&order=1" height="150" alt="stats graph"/>
