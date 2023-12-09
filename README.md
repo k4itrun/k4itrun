@@ -25,7 +25,7 @@ I develop whatever, I like console/terminal/shell etc, and backend development c
  
  |    Name (R)   |       Description      |
  | :---------------------------: | :--------------: |
- | _[Wick QR](https://github.com/k4itrun/wick-token-grabber)_ |     **The best grabber for discord channel verification, uses a qr code to scan.**     |
+ | _[Wick QR](https://github.com/k4itrun/WickQrTokenGrabber)_ |     **The best grabber for discord channel verification, uses a qr code to scan.**     |
  | _[AuraThemes](https://github.com/k4itrun/DiscordTokenGrabber)_ |     **The best token grabber created in NodeJS, with features of a free professional op grabber.**     |
  | _[ErisPhisher](https://github.com/k4itrun/ErisPhisher#installation)_ | **The best way to do phishing easily and simply with more than 60 websites.** |
  |  _[HackerCamera](https://github.com/k4itrun/HackerCam)_ |    **The best phishing tool to hack your victim's camera using a link (you can see the doc)**    |
