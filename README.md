@@ -2,7 +2,7 @@
 
 <div align="center">
  <a href="https://discord.com/users/1187553265177608273">
-  <img alt="k4itrun" src="https://card.6889.fun/api/1187553265177608273?borderRadius=22&bgColor=3A006A&hideStatus=false&idleMessage=sex"/>
+  <img alt="k4itrun" src="https://card-6889-fun.deno.dev/api/1187553265177608273?borderRadius=22&bgColor=3A006A&hideStatus=false&idleMessage=sex"/>
  </a>
  
  ### Short description
