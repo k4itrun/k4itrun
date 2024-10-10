@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://discord.com/users/1208098209063379065" title="GitHub Profile">
+      <img 
+        src="https://github-widgetbox.vercel.app/api/profile?username=k4itrun&theme=darkmode&data=followers,repositories,stars,commits" 
+        alt="GitHub Widgetbox Card" 
+        style="width: 450px;
+      ">
+  </a>
+  <br>
 
-<!--
-**k4itrun/k4itrun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img 
+    src="https://streak-stats.demolab.com?user=k4itrun&theme=black-ice&hide_border=true" 
+    alt="GitHub Streak" 
+    style="width: 450px; 
+  ">
+  
+  <img 
+    src="https://skillicons.dev/icons?i=html,css,js,elixir,go,rust,bash,py" 
+    alt="Skills" 
+    style="margin-top: 10px; width: 350px;
+  ">
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="right" style="margin: 0; padding: 0;">
+  <img 
+    src="https://visitcount.itsvg.in/api?id=k4itrun&icon=0&color=6" 
+    width="120px" 
+    style="vertical-align: middle; margin-right: 5px;
+  ">
+</p>
