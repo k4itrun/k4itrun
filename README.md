@@ -6,7 +6,6 @@
         style="width: 450px;
       ">
   </a>
-  <br>
 
   <img 
     src="https://streak-stats.demolab.com?user=k4itrun&theme=black-ice&hide_border=true" 
