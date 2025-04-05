@@ -8,7 +8,7 @@
   </a>
 
   <img 
-    src="https://streak-stats.demolab.com?user=k4itrun&theme=black-ice&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4itrun&layout=compact&theme=midnight-purple&hide_border=true&hide_title=true" 
     alt="GitHub Streak" 
     style="width: 450px; 
   ">
