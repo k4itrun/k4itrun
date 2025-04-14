@@ -24,6 +24,16 @@
     <code><img src="https://skillicons.dev/icons?i=py" width="30" height="30" alt="Python logo"/></code>
 </p>
 
-<p align="right" style="margin: 0; padding: 0;">
-  <img src="https://visitcount.itsvg.in/api?id=k4itrun&icon=0&color=6" width="120px" style="vertical-align: middle; margin-right: 5px;"/>
+<p align="right">
+  <picture>
+    <source width="18px" srcset="https://raw.githubusercontent.com/wishware/.github/refs/heads/main/assets/images/wish-light.png" media="(prefers-color-scheme: dark)"/>
+    <img 
+      src="https://raw.githubusercontent.com/wishware/.github/refs/heads/main/assets/images/wish-dark.png" 
+      alt="Wish Logo"
+      width="18px"
+      loading="lazy"
+      style="margin-bottom: 10px;"
+    />
+  </picture>
+  <a href="https://github.com/wishware">powered by @k4itrun</a>
 </p>
