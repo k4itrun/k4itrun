@@ -26,14 +26,8 @@
 
 <p align="right">
   <picture>
-    <source width="18px" srcset="https://raw.githubusercontent.com/wishware/.github/refs/heads/main/assets/images/wish-light.png" media="(prefers-color-scheme: dark)"/>
-    <img 
-      src="https://raw.githubusercontent.com/wishware/.github/refs/heads/main/assets/images/wish-dark.png" 
-      alt="Wish Logo"
-      width="18px"
-      loading="lazy"
-      style="margin-bottom: 10px;"
-    />
+    <source srcset="https://cxn.vercel.app/imgs/logo/wish/wish-light.png" media="(prefers-color-scheme: dark)"/>
+    <img src="https://cxn.vercel.app/imgs/logo/wish/wish-dark.png" alt="Wish Logo" width="18" loading="lazy"/>
   </picture>
-  <a href="https://github.com/wishware">powered by @k4itrun</a>
+  <a href="https://github.com/k4itrun">powered by @k4itrun</a>
 </p>
